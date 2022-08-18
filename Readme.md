@@ -1,6 +1,6 @@
-#TO push repostiory \n
-git init \n
-git add .
-git commit -m "[message]"  \n
-git branch -M main  \n
-git push -u origin main  \n
+#TO push repostiory <br/>
+git init  <br/>
+git add .  <br/>
+git commit -m "[message]"  <br/> 
+git branch -M main  <br/>
+git push -u origin main <br/>
